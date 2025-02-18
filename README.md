@@ -6,6 +6,8 @@
   <a href="https://www.youtube.com/@aurcby">
     <img height="50" src="https://www.svgrepo.com/show/13671/youtube.svg" />
   </a>
+  <a href="https://www.last.fm/user/aurcby">
+    <img height="50" src="https://www.svgrepo.com/show/341982/last-fm.svg" />
 </p>
 
 
