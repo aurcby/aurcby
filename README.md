@@ -1,6 +1,8 @@
+<h2> ✨ &nbsp;Where you can find me:</h2>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+<a href="https://www.reddit.com/user/aurcbyz/">
+<img height="50" src="https://www.svgrepo.com/show/14413/reddit.svg"/>
+</a>
 
 <h2> 🚀 &nbsp;Tools i use:</h2>
 <p align="left">
