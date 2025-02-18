@@ -9,6 +9,8 @@
 
 - An Acer Nitro 5 AN517-41 with Arch Linux! <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" alt="archlinux" width="40" height="40"/>
 
+- An Samsung A34 5G with the normal Android Image! (degoogled and desamsunged as much as i could) <img src=""https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" alt="android" width="40" height="40"/>
+
 <h2> ✨ &nbsp;Where you can find me:</h2>
 <p align="center">
   <a href="https://www.reddit.com/user/aurcbyz/">
