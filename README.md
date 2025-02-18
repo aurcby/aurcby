@@ -1,3 +1,5 @@
+<h2> 👋 &nbsp; Welcome to my profile!</h2>
+
 <h2> ✨ &nbsp;Where you can find me:</h2>
 <p align="center">
   <a href="https://www.reddit.com/user/aurcbyz/">
