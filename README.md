@@ -18,7 +18,7 @@
   </a>
 
 <h2> ✨ &nbsp;Where you can find me:</h2>
-<p align="center">
+<p align="left">
   <a href="https://www.reddit.com/user/aurcbyz/">
     <img height="50" src="https://www.svgrepo.com/show/14413/reddit.svg" />
   </a>
