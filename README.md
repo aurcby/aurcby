@@ -6,11 +6,12 @@
 
 <h2> 💻 &nbsp; What devices I use:</h2>
 <p align="right">
-
+  
 - An Acer Nitro 5 AN517-41 with Arch Linux! 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" alt="archlinux" width="40" height="40"/>
 
-- A Samsung A34 5G with the normal Android Image! (degoogled and desamsunged as much as I could) 
+- A Samsung A34 5G with the normal Android Image! (degoogled and desamsunged as much as I could)
+ <a href="https://www.samsung.com/uk/smartphones/galaxy-a/galaxy-a34-5g-lime-256gb-sm-a346blgeeub/"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" alt="android" width="40" height="40"/>
 
 
