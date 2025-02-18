@@ -1,10 +1,13 @@
 <h2> ✨ &nbsp;Where you can find me:</h2>
 <p align="center">
-<a href="https://www.reddit.com/user/aurcbyz/">
-<img height="50" src="https://www.svgrepo.com/show/14413/reddit.svg"/>
-<a href="https://www.youtube.com/@aurcby"  
-<img height="50" src="https://www.svgrepo.com/show/13671/youtube.svg"/>
-</a>
+  <a href="https://www.reddit.com/user/aurcbyz/">
+    <img height="50" src="https://www.svgrepo.com/show/14413/reddit.svg" />
+  </a>
+  <a href="https://www.youtube.com/@aurcby">
+    <img height="50" src="https://www.svgrepo.com/show/13671/youtube.svg" />
+  </a>
+</p>
+
 
 <h2> 🚀 &nbsp;Tools i use:</h2>
 <p align="left">
