@@ -4,6 +4,11 @@
 
 - I'm using Batch but i want to learn Python.
 
+<h2> 💻 &nbsp; What devices i use:</h2>
+<p align="right">
+
+- An Acer Nitro 5 AN517-41 with Arch Linux! <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+
 <h2> ✨ &nbsp;Where you can find me:</h2>
 <p align="center">
   <a href="https://www.reddit.com/user/aurcbyz/">
