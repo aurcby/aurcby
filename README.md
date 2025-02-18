@@ -12,7 +12,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" alt="archlinux" width="40" height="40"/>
   </a>
 
-- A Samsung A34 5G with the normal Android Image! (degoogled and desamsunged as much as I could)
+- A Samsung A34 5G!
   <a href="https://www.samsung.com/uk/smartphones/galaxy-a/galaxy-a34-5g-lime-256gb-sm-a346blgeeub/"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" alt="android" width="40" height="40"/>
   </a>
