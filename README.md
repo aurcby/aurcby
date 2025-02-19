@@ -9,7 +9,7 @@
 
 - An Acer Nitro 5 AN517-41 with OpenSUSE Tumbleweed!
   <a href="https://archlinux.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opensuse/opensuse-original.svg" alt="opensuse" width="40" height="20"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opensuse/opensuse-original.svg" alt="opensuse" width="40" height="40"/>
   </a>
 
 - A Samsung A34 5G!
